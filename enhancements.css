@@ -1,0 +1,4 @@
+.high-contrast { --bg:#02040a; --card:rgba(10,17,31,.94); --line:rgba(216,226,255,.28); --text:#fff; --purple:#b09cff; }
+.focused .node.ext, .focused .node.mod { opacity:.16; }
+.focused .links { opacity:.2; }
+.focused .node.core { transform:scale(1.13); transform-origin:302px 132px; }
